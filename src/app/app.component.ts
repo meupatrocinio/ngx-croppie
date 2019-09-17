@@ -1,6 +1,6 @@
 import { Component, ViewChild, OnInit, OnChanges } from '@angular/core';
 import { CroppieOptions } from 'croppie';
-import { NgxCroppieComponent } from './modules/ngx-croppie/ngx-croppie.component';
+import { NgxCroppieComponent } from './modules/ngx-croppie-mp/ngx-croppie.component';
 
 @Component({
   selector: 'app-root',
