@@ -1,4 +1,4 @@
-import { NgxCroppieModule } from './modules/ngx-croppie/ngx-croppie.module';
+import { NgxCroppieModule } from './modules/ngx-croppie-mp/ngx-croppie.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
