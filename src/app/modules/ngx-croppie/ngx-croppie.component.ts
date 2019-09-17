@@ -1,7 +1,7 @@
 import { Component, OnInit, Input, EventEmitter, Output, ViewChild, ElementRef } from '@angular/core';
 
 import * as Croppie from 'croppie-mp';
-import { CroppieOptions, ResultOptions, CropData } from 'croppie';
+import { CroppieOptions, ResultOptions, CropData } from 'croppie-mp';
 
 export type Type = 'canvas' | 'base64' | 'html' | 'blob' | 'rawcanvas';
 
