@@ -1,5 +1,5 @@
 {
-  "name": "ngx-croppie",
+  "name": "ngx-croppie-mp",
   "version": "1.1.0",
   "description": "Simple angular wrapper around croppie (WIP)",
   "license": "MIT",
@@ -15,7 +15,7 @@
   "private": false,
   "peerDependencies": {
     "@types/croppie": "^2.5.3",
-    "croppie": "git+https://github.com/meupatrocinio/Croppie.git"
+    "croppie-mp": "^2.6.2"
   },
   "devDependencies": {
     "@angular/animations": "^5.2.0",
@@ -36,7 +36,7 @@
     "@types/node": "~6.0.60",
     "codelyzer": "^4.0.1",
     "core-js": "^2.4.1",
-    "croppie": "^2.6.2",
+    "croppie-mp": "^2.6.2",
     "jasmine-core": "~2.8.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~2.0.0",
@@ -59,7 +59,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/deej81/ngx-croppie"
+    "url": "https://github.com/meupatrocinio/ngx-croppie"
   },
   "bugs": {
     "url": "https://github.com/deej81/ngx-croppie/issues"

@@ -20,7 +20,7 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "../node_modules/croppie/croppie.css"
+        "../node_modules/croppie-mp/croppie.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
